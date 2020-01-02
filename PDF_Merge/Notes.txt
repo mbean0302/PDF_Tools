@@ -1,0 +1,11 @@
+When original files window appears, drag and drop pdf files that you wish to merge together into the window.
+
+Press [ENTER] in the script.
+
+Script will merge all pdf's into one file.
+
+Merged content will be placed in the Merged_PDF_Files folder.
+
+You have the option to delete the original files or keep them as is.
+
+Press [ENTER] to close the script.
